@@ -248,13 +248,26 @@ SELECT ID, TITLE, AUTHOR, CREATED_AT FROM POSTS;
 
 # 📸 Screenshots
 
-![Empty API response before any posts](screenshots/demo1.png)
-![API response after creating first post](screenshots/demo2.png)
-![Frontend UI showing first post](screenshots/demo3.png)
-![Frontend UI showing two posts](screenshots/demo4.png)
-![API response with two posts](screenshots/demo5.png)
-![Frontend UI after deleting a post](screenshots/demo6.png)
-![Oracle SQL*Plus verification of saved post](screenshots/demo7.png)
+#### 1. Empty API response before any posts
+![demo1](screenshots/demo1.png)
+
+#### 2. API response after creating first post
+![demo2](screenshots/demo2.png)
+
+#### 3. Frontend UI showing first post
+![demo3](screenshots/demo3.png)
+
+#### 4. Frontend UI showing two posts
+![demo4](screenshots/demo4.png)
+
+#### 5. API response with two posts
+![demo5](screenshots/demo5.png)
+
+#### 6. Frontend UI after deleting a post
+![demo6](screenshots/demo6.png)
+
+#### 7. Oracle SQL*Plus verification of saved post
+![demo7](screenshots/demo7.png)
 
 ---
 
